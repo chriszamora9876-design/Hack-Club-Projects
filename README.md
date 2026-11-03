@@ -20,25 +20,22 @@ Eventually, I go the hang of it and I defiantly hope to continue improving my sk
 
 Here is a BOM of all the materials you would need to build this!
 
-### Bill of Materials (BOM)
+| Quantity | Part Name | Part Price |
+| :--- | :--- | :--- |
+| 1x | Seeed XIAO ESP32C3 | $4.99 |
+| 12x | MX-Style Keyboard Switches | $4.50 |
+| 12x | White Blank DSA Keycaps | $4.00 |
+| 12x | Through-Hole 1N4148 Diodes | $3.49 |
+| 1x | 2.25in TFT Screen | $10.34 |
+| 1x | 3.3V Piezo Buzzer | $2.27 |
+| 1x | 2.54mm 8 Pin Male Header | $1.50 |
+| 8x | 20cm Female-Female Jumper Wires | $4.00 |
+| 8x | M3x5x4 Heatset Inserts | $8.62 |
+| 4x | M3x8mm Screws | $9.68 |
+| 4x | M3x16mm Screws | $6.20 |
 
-| Qty | Part Description | Manufacturer / Specs | Est. Price | Sourcing Link |
-| :--- | :--- | :--- | :--- | :--- |
-| 1x | Seeed Studio XIAO ESP32C3 | Seeed Studio (113991054) | $4.99 | [Seeed Studio](https://www.seeedstudio.com) / [RobotShop](https://www.robotshop.com) |
-| 12x | MX-Style Keyboard Switches | Gateron / Outemu / Cherry MX (12pk) | $4.50 | [AliExpress](https://www.aliexpress.com) / [Amazon](https://www.amazon.com) |
-| 12x | White Blank DSA Keycaps | Generic Keycaps (12pk) | $4.00 | [AliExpress](https://www.aliexpress.com) / [Amazon](https://www.amazon.com) |
-| 12x | 1N4148 Signal Diodes | Chanzon / Generic DO-35 (100pk) | $3.49 | [DigiKey](https://www.digikey.com) |
-| 1x | 2.25in ST7789 TFT Screen | ST7789 Driver, 76x284 SPI Display | $10.34 | [AliExpress](https://www.aliexpress.com) |
-| 1x | 3.3V Piezo Buzzer | PUI Audio (AT-1740-TT-R) | $2.27 | [DigiKey](https://www.digikey.com) |
-| 1x | 2.54mm Pin Header | 40-Pin Single Row Male Header Strip | $1.50 | [Amazon](https://www.amazon.com) |
-| 8x | 20cm F-F Jumper Wires | Adafruit / Generic Ribbon Cable (40pk) | $4.00 | [Adafruit](https://www.adafruit.com) / [Amazon](https://www.amazon.com) |
-| 8x | M3x5x4mm Heatset Inserts | CQ Decor / Generic Brass Knurled (100pk)| $8.62 | [Amazon](https://www.amazon.com) |
-| 4x | M3x8mm Screws | Grainger / Metric Socket Head Cap (100pk) | $9.68 | [Grainger](https://www.grainger.com) / [Amazon](https://www.amazon.com) |
-| 4x | M3x16mm Screws | ClipsAndFasteners / Stainless A2 (100pk) | $6.20 | [ClipsAndFasteners](https://www.clipsandfasteners.com) |
-
-**Cost Summary:**
-* **Estimated Component Cost (Exact Quantities):** ~$25.00 – $30.00 USD
-* **Estimated Purchase Total (With Bulk Pack Minimums):** ~लेक्ट्रिक $59.59 USD
+Total Cost Prediciton:
+~$45 USD
 
 
 
